@@ -20,6 +20,10 @@ Which tag has the following text? - *Write the image ID to the file*
 - `--idfile string`
 
 
+*Answer:* --iidfile string
+
+
+
 ## Question 2. Understanding docker first run 
 
 Run docker with the python:3.9 image in an interactive mode and the entrypoint of bash.
